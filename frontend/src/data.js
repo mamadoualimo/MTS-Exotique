@@ -29,7 +29,8 @@ export default {
         brand: ' Manioc',
         rating: 4.5,
         numReviews: 8
-      }, {
+      }, 
+      {
         _id: '4',
         name: 'Patate douce',
         category: 'Légume',
