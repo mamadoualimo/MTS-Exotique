@@ -45,7 +45,8 @@ function ProductScreen(props) {
                 </select>
               </li>
               <li>
-                  <button>Ajouter au panier</button>
+              <button className="button primary">
+                      Ajouter au panier</button>
               </li>
             </ul>
           </div>
